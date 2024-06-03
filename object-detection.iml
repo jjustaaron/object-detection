@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Dowloads/json-20230618.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Dowloads/jsoup-1.16.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Dowloads/sqljdbc_12.6.2.0_enu/sqljdbc_12.6/enu/jars/mssql-jdbc-12.6.2.jre8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Dowloads/sqljdbc_12.6.2.0_enu/sqljdbc_12.6/enu/jars/mssql-jdbc-12.6.2.jre11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../Dowloads/sqljdbc_12.6.2.0_enu/sqljdbc_12.6/enu/jars/mssql-jdbc-12.6.2.jre8-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Dowloads/sqljdbc_12.6.2.0_enu/sqljdbc_12.6/enu/jars/mssql-jdbc-12.6.2.jre11-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
